@@ -34,18 +34,4 @@ A simple command-line Tic-Tac-Toe game implemented in C. The game features a men
 - Standard C libraries (`stdio.h`, `stdlib.h`, `time.h`)
 - `conio.h` (For Windows users, alternative needed for Linux/macOS)
 
-## Known Issues
-- AI moves randomly and does not use advanced strategies.
-- `conio.h` is not supported on macOS/Linux; consider using `getch()` alternative.
-
-## Future Improvements
-- Implement a smarter AI using the Minimax algorithm.
-- Improve UI with a better text-based interface.
-- Add a restart option after the game ends.
-
-## License
-This project is open-source under the **MIT License**.
-
-## Author
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
 
