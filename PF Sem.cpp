@@ -64,7 +64,7 @@ int main()
 		system("cls");
 		
 		printf("%c",head());	
-		printf("\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\tMADE BY:\n\n\n\n \t\t\t\t\tAhmed Ali      (21K-3212)\n\n\n");
+		printf("\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\tMADE BY:\n\n\n\n \t\t\t\t\tShayan Haider (21k-3211)\n\t\t\t\t\tAhmed Ali (21K-3212)\n\n\n");
 		getch();
 		goto a;
 	}
