@@ -10,10 +10,6 @@ A simple command-line Tic-Tac-Toe game implemented in C. The game features a men
 
 ## How to Play
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/tic-tac-toe-c.git
-   cd tic-tac-toe-c
-   ```
 2. Compile the game:
    ```sh
    gcc tic_tac_toe.c -o tic_tac_toe
